@@ -52,3 +52,19 @@ Most authentication attempts failed until the correct credentials were identifie
 
 This demonstrates how repeated failed login attempts can indicate brute-force activity and why monitoring authentication logs is important during security investigations.
 
+## Detection Indicators
+
+During this lab, I observed the following indicators of a brute-force attack:
+
+- Multiple failed login attempts.
+- Repeated authentication requests within a short period.
+- A successful login after numerous failed attempts.
+- Authentication activity recorded in the application log.
+
+## MITRE ATT&CK Mapping
+
+Technique:
+- T1110 – Brute Force
+
+
+
