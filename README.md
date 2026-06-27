@@ -80,5 +80,15 @@ Technique:
 ### 4. Investigation Results
 ![Investigation Results](Screenshot%20(35).png)
 
+## What I Learned
+
+- How brute-force attacks work against login pages.
+- How Python can automate login attempts.
+- How Flask is used to create a web application.
+- Why strong passwords are important.
+- How repeated failed login attempts can indicate an attack.
+- How a SOC analyst can investigate login activity using logs.
+- The importance of monitoring authentication events to detect suspicious behavior.
+
 
 
