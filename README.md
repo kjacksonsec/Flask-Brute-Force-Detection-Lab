@@ -66,5 +66,19 @@ During this lab, I observed the following indicators of a brute-force attack:
 Technique:
 - T1110 – Brute Force
 
+## Screenshots
+
+### 1. Flask Login Page
+![Flask Login](Screenshot%20(32).png)
+
+### 2. Brute-Force Attack Running
+![Attack Script](Screenshot%20(33).png)
+
+### 3. Successful Login Found
+![Successful Login](Screenshot%20(34).png)
+
+### 4. Investigation Results
+![Investigation Results](Screenshot%20(35).png)
+
 
 
